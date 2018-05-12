@@ -1,0 +1,37 @@
+_repo: Rosemary-and-Rue-by-Amber_36168
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Read, Opie Percival
+    alias: Read, Opie P.
+    birthdate: 1852
+    deathdate: 1939
+    gutenberg_agent_id: '8387'
+    url: http://www.gutenberg.org/2009/agents/8387
+    wikipedia: http://en.wikipedia.org/wiki/Opie_Read
+covers:
+- cover_type: archival
+  image_path: 36168-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Holden, Martha Everts
+    alias: Amber
+    deathdate: 1896
+    gutenberg_agent_id: '7094'
+    url: http://www.gutenberg.org/2009/agents/7094
+description: ''
+gutenberg_issued: '2011-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36168'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American essays'
+- !lcsh 'Conduct of life'
+- !lcc 'PS'
+- !lcsh 'American poetry'
+title: Rosemary and Rue, by Amber
+url: http://www.gutenberg.org/ebooks/36168
